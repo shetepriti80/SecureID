@@ -4,6 +4,7 @@
 **Project Name:** SecureID  
 **Standard Compliance:** MasterCard CSB-02 Biometric Assurance Level High & ISO/IEC 30107-3 Level 2 (PAD)  
 **Repository:** [github.com/shetepriti80/SecureID](https://github.com/shetepriti80/SecureID)  
+**Live Production URL:** [SecureID | Biometric Identity Verification & Anti-Spoofing Engine](https://secure-id-chi.vercel.app/)  
 **Cloud Deployment Platform:** Vercel (@vercel/python Serverless & Edge CDN)  
 **Date:** October 10, 2026  
 **Document Classification:** Confidential / Production Prototype Specification  

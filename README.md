@@ -3,9 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![MasterCard CSB-02](https://img.shields.io/badge/Compliance-MasterCard%20CSB--02-orange.svg)](#)
 [![ISO/IEC 30107-3](https://img.shields.io/badge/PAD-ISO%2FIEC%2030107--3%20Level%202-green.svg)](#)
-[![Vercel Deployment](https://img.shields.io/badge/Deploy-Vercel-black.svg?logo=vercel)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black.svg?logo=vercel)](https://secure-id-chi.vercel.app/)
 
 SecureID is an enterprise-grade biometric identity verification platform designed to prevent presentation attacks, synthetic deepfakes, and hardware emulation in KYC onboarding.
+
+👉 **Live Production URL:** [SecureID | Biometric Identity Verification & Anti-Spoofing Engine](https://secure-id-chi.vercel.app/)
 
 ---
 
